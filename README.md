@@ -222,13 +222,3 @@ File structure (recommended)
 License & attribution
 
 This project uses the deit / timm implementation and public datasets (ensure dataset usage follows its license). Add your preferred license file (MIT / Apache) to the repo if you intend to distribute code.
-
-Contact / Notes
-
-If you want, I can:
-
-generate a concise requirements.txt for this run,
-
-produce a short inference script that wraps the saved model into a function or REST endpoint,
-
-or convert this README into a polished GitHub README with badges and a short demo GIF.
